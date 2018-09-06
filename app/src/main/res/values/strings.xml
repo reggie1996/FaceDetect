@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FaceDetect</string>
+    <string name="capture">点击拍照</string>
+    <string name="beauty">颜值</string>
+    <string name="emotion">情绪分析：</string>
+</resources>
